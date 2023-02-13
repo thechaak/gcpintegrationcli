@@ -19,7 +19,7 @@ NOTE: Supported platforms are:
 Run this script to download & install the latest version (on Linux or Darwin)
 
 ```sh
-curl -L https://raw.githubusercontent.com/srinandan/integrationcli/master/downloadLatest.sh | sh -
+curl -L https://raw.githubusercontent.com/thechaak/gcpintegrationcli/master/downloadLatest.sh | sh -
 ```
 
 
