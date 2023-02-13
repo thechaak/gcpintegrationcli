@@ -8,7 +8,7 @@ This is a tool to interact with [Application Integration APIs](https://cloud.goo
 
 ## Installation
 
-`integrationcli` is a binary and you can download the appropriate one for your platform from [here](https://github.com/srinandan/integrationcli/releases)
+`integrationcli` is a binary and you can download the appropriate one for your platform from [here](https://github.com/thechaak/gcpintegrationcli/releases)
 
 NOTE: Supported platforms are:
 
